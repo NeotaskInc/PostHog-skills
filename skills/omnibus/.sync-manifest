@@ -89,6 +89,7 @@ investigating-error-issue
 investigating-logs
 investigating-metric-anomalies
 investigating-replay
+linking-errors-to-traces
 managing-endpoint-versions
 managing-experiment-lifecycle
 managing-path-cleaning-rules
